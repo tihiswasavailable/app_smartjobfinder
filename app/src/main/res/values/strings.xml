@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">smart_job_finder</string>-->
+    <string name="title_home">Smart Job Finder</string>
+    <string name="title_dashboard">Likes</string>
+    <string name="to">To:</string>
+    <string name="from">From:</string>
+    <string name="your_application">Your Application:</string>
+    <string name="sent">Send</string>
+    <string name="put_your_application_here">Put your application here</string>
+    <string name="your_email">Your E-Mail</string>
+    <string name="email">E-Mail</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="position">Position</string>
+    <string name="position_text_position_text_position_text_position_text_position_text_position_text">Position Text Position Text Position Text Position Text Position Text Position Text</string>
+    <string name="location">Location</string>
+    <string name="locationText">Location</string>
+    <string name="description">Description</string>
+    <string name="descriptionText">Description DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription</string>
+    <string name="contact">Contact</string>
+    <string name="office_smartjobfinder_at">office@smartjobfinder.at</string>
+    <string name="apply">APPLY</string>
+</resources>
